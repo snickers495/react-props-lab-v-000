@@ -8,7 +8,7 @@ export default class Spaceship extends React.Component {
       <title>{this.props.name}</title>
       {this.props.speed}
       {this.props.hasRockets}
-      {}
+      {this.props.colors}
     )
   }
 }
