@@ -1,2 +1,2 @@
 // Code The Spaceship Component Here
-import 
+import React from ''
