@@ -7,7 +7,7 @@ export default class Spaceship extends React.Component {
     return (
       <title>{this.props.name}</title>
       {this.props.speed}
-      
+      {this.props.}
     )
   }
 }
