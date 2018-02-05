@@ -5,7 +5,7 @@ import ReactDOM from 'react-dom';
 export default class Spaceship extends React.Component {
   render(){
     return (
-      <title
+      <title>{this.props.}
     )
   }
 }
