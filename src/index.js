@@ -6,6 +6,6 @@ import Spaceship from './components/Spaceship';
 ReactDOM.render(
   <Spaceship name="Millennium Falcon",
   speed="0",
-  hasRockets />,
+  hasRockets="" />,
   document.getElementById('global')
 );
